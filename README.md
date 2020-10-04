@@ -1,16 +1,18 @@
-# mvc_app
+# LISTA DE COMPROMISSOS
 
-A new Flutter application.
+Uma aplicação feita por Pedro Henrique Reis Rodrigues com intuito de auxiliar o usuário na administração de suas tarefas diárias.
 
-## Getting Started
+## Funcionamento
 
-This project is a starting point for a Flutter application.
+Esse projeto foi feito totalmente na linguagem Dart e em aplicação Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter](https://flutter.dev/docs/get-started/codelab)
+- [Dart](https://dart.dev/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+O projeto consiste em uma lista de dados, onde são adicionados dados(tarefas) sequencialmente pelo usuário
+afim de lembrar-los sobre suas tarefas pendentes. O aplicativo conta como um sistema de CheckBox, onde ao você
+finalizar sua tarefa, você pode marcar ela como "Pronta", como pode ser visto no video de demonstração.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Vídeo no Youtube
+
+https://youtu.be/6oSERwU5i_M
